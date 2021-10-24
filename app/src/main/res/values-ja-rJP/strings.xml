@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">シーサンチャン</string>
+    <string name="set">相手のカートを見る</string>
+    <string name="back">戻る</string>
+    <string name="Player2">プレイヤー２</string>
+    <string name="Player3">プレイヤー３</string>
+    <string name="Player4">プレイヤー４</string>
+    <string name="Player1">プレイヤー１</string>
+    <string name="total">合計</string>
+    <string name="score">スコア</string>
+</resources>

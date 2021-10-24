@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">十三張</string>
+    <string name="set">開牌</string>
+    <string name="back">返回主頁</string>
+    <string name="Player2">玩家2 : </string>
+    <string name="Player3">玩家3 : </string>
+    <string name="Player4">玩家4 : </string>
+    <string name="Player1">玩家1 : </string>
+    <string name="total">"總分 : "</string>
+    <string name="score">"得分 : "</string>
+</resources>

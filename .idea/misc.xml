@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Assignment/chinese poker/RandomCardTesting_v1.27/app/src/main/res/layout/player_ui.xml" value="0.264" />
+        <entry key="..\:/projects/RandomCardTesting_v1.09/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/projects/RandomCardTesting_v1.11/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/projects/RandomCardTesting_v1.12/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/projects/RandomCardTesting_v1.16/app/src/main/res/drawable/dummy_bg.xml" value="0.19907407407407407" />
+        <entry key="..\:/projects/RandomCardTesting_v1.16/app/src/main/res/layout/activity_main.xml" value="0.4581497797356828" />
+        <entry key="..\:/projects/RandomCardTesting_v1.16/app/src/main/res/layout/dummy_bg.xml" value="0.11944444444444445" />
+        <entry key="..\:/projects/RandomCardTesting_v1.16/app/src/main/res/layout/player_main.xml" value="0.11979166666666667" />
+        <entry key="..\:/projects/RandomCardTesting_v1.16/app/src/main/res/layout/show_hand.xml" value="0.264" />
+        <entry key="..\:/projects/RandomCardTesting_v1.18/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/projects/RandomCardTesting_v1.18/app/src/main/res/layout/player_main.xml" value="0.264" />
+        <entry key="..\:/projects/RandomCardTesting_v1.18/app/src/main/res/layout/show_hand.xml" value="0.4" />
+        <entry key="..\:/projects/RandomCardTesting_v1.19/app/src/main/res/layout/player_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/projects/RandomCardTesting_v1.19/app/src/main/res/layout/show_hand.xml" value="0.25364583333333335" />
+        <entry key="..\:/projects/RandomCardTesting_v1.20/app/src/main/res/layout/player_main.xml" value="0.264" />
+        <entry key="..\:/projects/RandomCardTesting_v1.20/app/src/main/res/layout/show_hand.xml" value="0.1" />
+        <entry key="..\:/projects/RandomCardTesting_v1.21/app/src/main/res/layout/player_main.xml" value="0.1" />
+        <entry key="..\:/projects/RandomCardTesting_v1.21/app/src/main/res/layout/show_hand.xml" value="0.24947916666666667" />
+        <entry key="..\:/projects/RandomCardTesting_v1.22/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/projects/RandomCardTesting_v1.22/app/src/main/res/layout/player_main.xml" value="0.264" />
+        <entry key="..\:/projects/RandomCardTesting_v1.22/app/src/main/res/layout/show_hand.xml" value="0.4" />
+        <entry key="..\:/projects/RandomCardTesting_v1.23/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/projects/RandomCardTesting_v1.23/app/src/main/res/layout/player_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/projects/RandomCardTesting_v1.23/app/src/main/res/layout/show_hand.xml" value="0.24947916666666667" />
+        <entry key="..\:/projects/RandomCardTesting_v1.25/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/projects/RandomCardTesting_v1.25/app/src/main/res/layout/player_ui.xml" value="0.1" />
+        <entry key="..\:/projects/RandomCardTesting_v1.26/app/src/main/res/layout/show_result.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

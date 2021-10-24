@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Assignment\\chinese poker\\RandomCardTesting_v1.27\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko-rKR\\values-ko-rKR.xml",
+            "map": [
+                {
+                    "source": "E:\\Assignment\\chinese poker\\RandomCardTesting_v1.27\\app\\src\\main\\res\\values-ko-rKR\\strings.xml",
+                    "from": {
+                        "startLines": "3,6,5,4,2,7,9,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "109,232,191,150,57,273,349,312,390",
+                        "endColumns": "39,39,39,39,50,37,39,35,35",
+                        "endOffsets": "144,267,226,185,103,306,384,343,421"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,135,175,215,266,304,344,380",
+                        "endColumns": "39,39,39,39,50,37,39,35,35",
+                        "endOffsets": "90,130,170,210,261,299,339,375,411"
+                    }
+                }
+            ]
+        }
+    ]
+}

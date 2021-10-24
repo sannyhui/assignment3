@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Assignment\\chinese poker\\RandomCardTesting_v1.27\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ja-rJP\\values-ja-rJP.xml",
+            "map": [
+                {
+                    "source": "E:\\Assignment\\chinese poker\\RandomCardTesting_v1.27\\app\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "from": {
+                        "startLines": "8,5,6,7,2,4,10,3,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "315,183,227,271,57,146,397,103,359",
+                        "endColumns": "42,42,42,42,44,35,37,41,36",
+                        "endOffsets": "353,221,265,309,97,177,430,140,391"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,98,141,184,227,272,308,346,388",
+                        "endColumns": "42,42,42,42,44,35,37,41,36",
+                        "endOffsets": "93,136,179,222,267,303,341,383,420"
+                    }
+                }
+            ]
+        }
+    ]
+}

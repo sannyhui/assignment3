@@ -1,0 +1,8 @@
+com/example/randomcardtesting/DataBindingTriggerClass.java
+ com.example.randomcardtesting.DataBindingTriggerClass
+com/example/randomcardtesting/BuildConfig.java
+ com.example.randomcardtesting.BuildConfig
+com/example/randomcardtesting/databinding/PlayerUiBinding.java
+ com.example.randomcardtesting.databinding.PlayerUiBinding
+com/example/randomcardtesting/databinding/ShowResultBinding.java
+ com.example.randomcardtesting.databinding.ShowResultBinding

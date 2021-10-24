@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chinese Poker</string>
+    <string name="Player1">명사1</string>
+    <string name="Player4">명사4</string>
+    <string name="Player3">명사3</string>
+    <string name="Player2">명사2</string>
+    <string name="back">돌아가다</string>
+    <string name="set">끝났어</string>
+    <string name="score">" 점수"</string>
+    <string name="total">총</string>
+</resources>

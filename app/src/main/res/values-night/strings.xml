@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set">Set</string>
+    <string name="back">back</string>
+    <string name="Player2">Player2 : </string>
+    <string name="Player3">Player3 : </string>
+    <string name="Player4">Player4 : </string>
+    <string name="Player1">Player1 : </string>
+    <string name="score">"Score : "</string>
+    <string name="total">"Total : "</string>
+</resources>
